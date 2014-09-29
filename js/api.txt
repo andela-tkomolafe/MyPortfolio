@@ -1,1 +1,0 @@
-https://graph.facebook.com/v1.0/508110966/?fields=id,name,first_name,picture

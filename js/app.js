@@ -1,6 +1,12 @@
-
+navClick = function(){
+  $('.select').click(function(){
+    $('.select').removeClass("selected");
+    $(this).addClass("selected");
+  });
+} 
 
 $(document).ready(function(){
+  navClick();
 $(function() {
   $('a[href*=#]:not([href=#])').click(function() {
     if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
