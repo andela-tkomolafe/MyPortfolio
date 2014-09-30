@@ -6,7 +6,6 @@
 		line-height: 1em;
 		padding-top: 80%;
 		padding-left: 25%;
-		height: 700px;
 	}
 	#welcome{
 		margin-right: 15%;
@@ -16,9 +15,6 @@
 	}
 	#Portfolio{
 		padding-top: 60%;
-	}
-	#wrapper{
-		height: 630px;
 	}
 	#gallery li {
 		display: inline-block;
@@ -33,11 +29,9 @@
 	}
 	#wrapper1{
 		width:90%;
-		height: 35rem;
 	}
 	#wrapper2{
 		width: 90%;
-		height: 22rem;
 	}
 	#contact{
 		padding-top: 60%;
@@ -54,13 +48,12 @@
 		line-height: 1em;
 		padding-top: 80%;
 		padding-left: 25%;
-		height: 700px;
 	}
 	#Portfolio{
 		padding-top: 40%;
 	}
 	#wrapper{
-		height: 700px;
+		/*height: 700px;*/
 	}
 	#about{
 		padding-top: 40%;
@@ -69,11 +62,11 @@
 	}
 	#wrapper1{
 		width:90%;
-		height: 35rem;
+		/*height: 35rem;*/
 	}
 	#wrapper2{
 		width: 90%;
-		height: 21rem;
+		/*height: 21rem;*/
 	}
 	#contact{
 		padding-top: 40%;
@@ -96,13 +89,13 @@
 		line-height: 1.4em;
 		padding-top: 55%;
 		padding-left: 25%;
-		height: 700px;
+		/*height: 700px;*/
 	}
 	#Portfolio{
 		padding-top: 19%;
 	}
 	#wrapper{
-		height: 430px;
+		/*height: 430px;*/
 	}
 	#about{
 		padding-top: 20%;
@@ -111,7 +104,7 @@
 	}
 	#wrapper1{
 		width:90%;
-		height: 25rem;
+		/*height: 25rem;*/
 	}
 	#contact{
 		padding-top: 27%;
@@ -120,7 +113,7 @@
 	}
 	#wrapper2{
 		width: 90%;
-		height: 21rem;
+		/*height: 21rem;*/
 	}
 	#gallery{
 		margin-top: 5%;
@@ -149,9 +142,6 @@
 	#Portfolio{
 		padding-top: 16%;
 	}
-	#wrapper{
-		height: 400px;
-	}
 	#about{
 		padding-top: 18%;
 	}
@@ -159,11 +149,11 @@
 		padding-top: 22%;
 	}
 	#wrapper1{
-		height: 22rem;
+		/*height: 22rem;*/
 		padding-bottom: 10px;
 	}
 	#wrapper2{
-		height: 20rem;
+		/*height: 20rem;*/
 		padding-bottom: 10px;
 	}
 }
