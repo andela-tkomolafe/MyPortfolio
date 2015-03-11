@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 
-
-$(document).ready(function(){
-=======
 navClick = function(){
   $('.select').click(function(){
     $('.select').removeClass("selected");
@@ -12,7 +8,6 @@ navClick = function(){
 
 $(document).ready(function(){
   navClick();
->>>>>>> 725ddcb9e2e80b0564000eed466dfec219c88c3d
 $(function() {
   $('a[href*=#]:not([href=#])').click(function() {
     if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {

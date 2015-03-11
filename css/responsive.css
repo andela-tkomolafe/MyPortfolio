@@ -6,10 +6,7 @@
 		line-height: 1em;
 		padding-top: 80%;
 		padding-left: 25%;
-<<<<<<< HEAD
 		height: 700px;
-=======
->>>>>>> 725ddcb9e2e80b0564000eed466dfec219c88c3d
 	}
 	#welcome{
 		margin-right: 15%;
@@ -20,12 +17,9 @@
 	#Portfolio{
 		padding-top: 60%;
 	}
-<<<<<<< HEAD
 	#wrapper{
 		height: 630px;
 	}
-=======
->>>>>>> 725ddcb9e2e80b0564000eed466dfec219c88c3d
 	#gallery li {
 		display: inline-block;
 		width: 65%;
@@ -39,17 +33,11 @@
 	}
 	#wrapper1{
 		width:90%;
-<<<<<<< HEAD
 		height: 35rem;
 	}
 	#wrapper2{
 		width: 90%;
 		height: 22rem;
-=======
-	}
-	#wrapper2{
-		width: 90%;
->>>>>>> 725ddcb9e2e80b0564000eed466dfec219c88c3d
 	}
 	#contact{
 		padding-top: 60%;
@@ -66,21 +54,14 @@
 		line-height: 1em;
 		padding-top: 80%;
 		padding-left: 25%;
-<<<<<<< HEAD
-		height: 700px;
-=======
->>>>>>> 725ddcb9e2e80b0564000eed466dfec219c88c3d
+		/*height: 700px;*/
 	}
 	#Portfolio{
 		padding-top: 40%;
 	}
-	#wrapper{
-<<<<<<< HEAD
+	/*#wrapper{
 		height: 700px;
-=======
-		/*height: 700px;*/
->>>>>>> 725ddcb9e2e80b0564000eed466dfec219c88c3d
-	}
+	}*/
 	#about{
 		padding-top: 40%;
 		padding-left: 5%;
@@ -88,19 +69,11 @@
 	}
 	#wrapper1{
 		width:90%;
-<<<<<<< HEAD
-		height: 35rem;
-	}
-	#wrapper2{
-		width: 90%;
-		height: 21rem;
-=======
 		/*height: 35rem;*/
 	}
 	#wrapper2{
 		width: 90%;
 		/*height: 21rem;*/
->>>>>>> 725ddcb9e2e80b0564000eed466dfec219c88c3d
 	}
 	#contact{
 		padding-top: 40%;
@@ -123,21 +96,13 @@
 		line-height: 1.4em;
 		padding-top: 55%;
 		padding-left: 25%;
-<<<<<<< HEAD
-		height: 700px;
-=======
 		/*height: 700px;*/
->>>>>>> 725ddcb9e2e80b0564000eed466dfec219c88c3d
 	}
 	#Portfolio{
 		padding-top: 19%;
 	}
 	#wrapper{
-<<<<<<< HEAD
-		height: 430px;
-=======
 		/*height: 430px;*/
->>>>>>> 725ddcb9e2e80b0564000eed466dfec219c88c3d
 	}
 	#about{
 		padding-top: 20%;
@@ -146,11 +111,7 @@
 	}
 	#wrapper1{
 		width:90%;
-<<<<<<< HEAD
-		height: 25rem;
-=======
 		/*height: 25rem;*/
->>>>>>> 725ddcb9e2e80b0564000eed466dfec219c88c3d
 	}
 	#contact{
 		padding-top: 27%;
@@ -159,11 +120,7 @@
 	}
 	#wrapper2{
 		width: 90%;
-<<<<<<< HEAD
-		height: 21rem;
-=======
 		/*height: 21rem;*/
->>>>>>> 725ddcb9e2e80b0564000eed466dfec219c88c3d
 	}
 	#gallery{
 		margin-top: 5%;
@@ -177,9 +134,6 @@
 	
 }
 
-
-
-
 @media screen and (min-width: 746px) and (max-width: 1016px){
 	#home{
 		font-size: 1.3em;
@@ -192,12 +146,6 @@
 	#Portfolio{
 		padding-top: 16%;
 	}
-<<<<<<< HEAD
-	#wrapper{
-		height: 400px;
-	}
-=======
->>>>>>> 725ddcb9e2e80b0564000eed466dfec219c88c3d
 	#about{
 		padding-top: 18%;
 	}
@@ -205,19 +153,11 @@
 		padding-top: 22%;
 	}
 	#wrapper1{
-<<<<<<< HEAD
-		height: 22rem;
-		padding-bottom: 10px;
-	}
-	#wrapper2{
-		height: 20rem;
-=======
 		/*height: 22rem;*/
 		padding-bottom: 10px;
 	}
 	#wrapper2{
 		/*height: 20rem;*/
->>>>>>> 725ddcb9e2e80b0564000eed466dfec219c88c3d
 		padding-bottom: 10px;
 	}
 }
