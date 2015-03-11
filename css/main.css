@@ -68,7 +68,11 @@ table {
     	background-repeat: repeat;
 		padding-top: 25%;
 		padding-left: 25%;
+<<<<<<< HEAD
 		height: 700px;
+=======
+		/*height: 700px;*/
+>>>>>>> 725ddcb9e2e80b0564000eed466dfec219c88c3d
 		vertical-align: middle;
 	}
 	#welcome{
@@ -79,39 +83,68 @@ table {
 	#Portfolio{
 		background-image: url('../img/bkgd14.jpg');
     	background-repeat: repeat;
+<<<<<<< HEAD
 		padding-top: 10%;
 		padding-left: 10%;
 		padding-left: 10%;
 		padding-bottom: 10%;	}
+=======
+		padding:10% 10%;
+	}
+>>>>>>> 725ddcb9e2e80b0564000eed466dfec219c88c3d
 
 	#wrapper{
 		background: url('../img/bkgd9.jpg');
 		max-width: 940px;
+<<<<<<< HEAD
 		height: 500px;
 		margin-left: 10%;
 		margin-right: 10%;
 		padding-top: 7%;
 		padding-left: 3%;
 		padding-right: 5%;	}
+=======
+		/*height: 500px;*/
+		margin-top: 10%;
+		margin-left: 10%;
+		margin-right: 10%;
+		padding-top: 7%;
+		padding-left: 5%;
+		padding-right: 5%;
+		padding-bottom: 10%;
+	}
+>>>>>>> 725ddcb9e2e80b0564000eed466dfec219c88c3d
 	#about{
 		background-image: url('../img/bkgd14.jpg');
     	background-repeat: repeat;
  		clear: both;
 		margin-top: 30%;
+<<<<<<< HEAD
 		padding-top: 10%;
 		padding-left: 10%;
 		padding-left: 10%;
 		padding-bottom: 10%;
+=======
+		padding: 10% 10%;
+>>>>>>> 725ddcb9e2e80b0564000eed466dfec219c88c3d
 	}
 	#wrapper1{
 		background: url('../img/bkgd9.jpg');
 		line-height: 1.5em;
 		max-width: 940px;
+<<<<<<< HEAD
 		height: 15rem;
 		padding-top: 7%;
 		padding-left: 3%;
 		padding-right: 5%;
 		padding-bottom: 5%;
+=======
+		/*height: 15rem;*/
+		padding-top: 7%;
+		padding-left: 3%;
+		padding-right: 5%;
+		padding-bottom: 10%;
+>>>>>>> 725ddcb9e2e80b0564000eed466dfec219c88c3d
 		margin-left: 10%;
 		margin-right: 10%;
 	}
@@ -121,17 +154,30 @@ table {
 		margin-top: 40%;
 		padding-top: 10%;
 		padding-left: 10%;
+<<<<<<< HEAD
 		padding-left: 10%;
 		padding-bottom: 10%;
+=======
+		padding-right: 10%;
+		padding-bottom: 7%;
+>>>>>>> 725ddcb9e2e80b0564000eed466dfec219c88c3d
 	}
 	#wrapper2{
 		background: url('../img/bkgd9.jpg');
 		line-height: 1.5em;
 		max-width: 940px;
+<<<<<<< HEAD
 		height: 15rem;
 		padding-top: 7%;
 		padding-left: 3%;
 		padding-right: 5%;
+=======
+		/*height: 15rem;*/
+		padding-top: 7%;
+		padding-left: 3%;
+		padding-right: 5%;
+		padding-bottom: 8%;
+>>>>>>> 725ddcb9e2e80b0564000eed466dfec219c88c3d
 		margin-left: 10%;
 		margin-right: 10%;	}
 	a {
@@ -327,7 +373,11 @@ table {
 	/*nav background on mobile*/
 	nav {
 		font-family: 'Lobster Two', sans-serif;
+<<<<<<< HEAD
 		background: #0000cc;
+=======
+		background: rgba(120,139,156,0.6);
+>>>>>>> 725ddcb9e2e80b0564000eed466dfec219c88c3d
 	}
 	/*logo text*/
 	h1, h2 {
