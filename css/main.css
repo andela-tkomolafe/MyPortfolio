@@ -1,0 +1,350 @@
+	/**********************
+		CSS RESET
+	**********************/
+	/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+	/*************************************
+	GENERAL
+	**************************************/
+	body {
+		background-image: url('../img/bkgd14.jpg');
+		font-family: 'Courgette' sans-serif
+	}
+	#home{
+		color: #fff;
+		font-family: 'Merriweather' sans-serif;
+		font-weight: 400px;
+		font-size: 2em;
+		letter-spacing: 0.3em;
+		line-height: 1.5em;
+		background-image: url('../img/bkgd14.jpg');
+    	background-repeat: repeat;
+		padding-top: 25%;
+		padding-left: 25%;
+		height: 700px;
+		vertical-align: middle;
+	}
+	#welcome{
+		background: url('../img/bkgd9.jpg');
+		margin-right: 15%;
+		padding-left: 5%;
+	}
+	#Portfolio{
+		background-image: url('../img/bkgd14.jpg');
+    	background-repeat: repeat;
+		padding-top: 10%;
+		padding-left: 10%;
+		padding-left: 10%;
+		padding-bottom: 10%;	}
+
+	#wrapper{
+		background: url('../img/bkgd9.jpg');
+		max-width: 940px;
+		height: 500px;
+		margin-left: 10%;
+		margin-right: 10%;
+		padding-top: 7%;
+		padding-left: 3%;
+		padding-right: 5%;	}
+	#about{
+		background-image: url('../img/bkgd14.jpg');
+    	background-repeat: repeat;
+ 		clear: both;
+		margin-top: 30%;
+		padding-top: 10%;
+		padding-left: 10%;
+		padding-left: 10%;
+		padding-bottom: 10%;
+	}
+	#wrapper1{
+		background: url('../img/bkgd9.jpg');
+		line-height: 1.5em;
+		max-width: 940px;
+		height: 15rem;
+		padding-top: 7%;
+		padding-left: 3%;
+		padding-right: 5%;
+		padding-bottom: 5%;
+		margin-left: 10%;
+		margin-right: 10%;
+	}
+	#contact{
+		background-image: url('../img/bkgd14.jpg');
+    	background-repeat: repeat;
+		margin-top: 40%;
+		padding-top: 10%;
+		padding-left: 10%;
+		padding-left: 10%;
+		padding-bottom: 10%;
+	}
+	#wrapper2{
+		background: url('../img/bkgd9.jpg');
+		line-height: 1.5em;
+		max-width: 940px;
+		height: 15rem;
+		padding-top: 7%;
+		padding-left: 3%;
+		padding-right: 5%;
+		margin-left: 10%;
+		margin-right: 10%;	}
+	a {
+		text-decoration: none;
+	}
+
+	img {
+		max-width: 100%;
+	}
+
+	h3 {
+		margin: 0 0 1em 0;
+		color: #000080;
+		font-weight: bold;
+
+	}
+
+
+	
+	/*************************************
+	HEADING
+	**************************************/
+	header {
+		position: fixed;
+		float: left;
+		margin: 0 0 30px 0;
+		padding: 5px 0 0 0;
+		width: 100%;
+	}
+
+	#logo {
+	text-align: center;
+	margin: 0;
+	}
+
+	h1 {
+		font-family: 'Lobster Two', sans-serif;
+		margin: 15px 0;
+		font-size: 3.00em;
+		font-weight: 700;
+		line-height: 0.8em;
+	}
+
+	h2 {
+		font-family: 'Lobster Two', sans-serif;
+		font-size: 1.50em;
+		margin: -5px 0 0;
+		font-weight: bold;
+		}
+
+
+
+	/*************************************
+	NAVIGATION
+	**************************************/
+	nav {
+		text-align: center;
+		padding: 10px 0;
+		margin: 20px 0 0;
+	}
+
+	nav ul {
+		list-style: none;
+		margin: 0 10px;
+		padding: 0
+	}
+
+	nav li {
+		display: inline-block;
+	}
+
+	nav a {
+		font-weight: 800;
+		padding: 15px 10px;
+	}
+
+
+
+
+
+	/*************************************
+	FOOTER
+	**************************************/
+
+	footer {
+		background: url('..img/');
+		font-size: 0.75em;
+		text-align: center;
+		clear: both;
+		padding-top: 50px;
+		color: #000080;;
+	}
+
+
+	.social-icon {
+		width: 20px;
+		height: 20px;
+		margin: 0 5px;
+	}
+
+
+	/*************************************
+	PAGE: PORTFOLIO
+	**************************************/
+
+	#gallery {
+		margin: 0;
+		padding: 0;
+		list-style: none;
+	}
+
+	#gallery li {
+		display: inline-block;
+		width: 25%;
+		margin: 2.5%;
+		background-color: #F34949;
+		color: #000080;
+	}
+
+
+	#gallery li a p {
+		margin: 0;
+		padding: 5%;
+		font-size: 0.75em;
+		color: #000080;
+	}
+
+	/*div{
+		overflow: scroll;
+	}*/
+
+
+
+	/*************************************
+	PAGE: ABOUT
+	**************************************/
+	.profile-photo {
+		/*display: inline-block;*/
+		float: left;
+		max-width: 150px;
+		margin-right: 2rem;
+		margin-bottom: 10px;
+		border-radius: 100%;
+	}
+
+
+
+	/*************************************
+	PAGE: CONTACT
+	**************************************/
+	.contact-info {
+		list-style: none;
+		padding: 0;
+		margin: 0;
+		font-size: 0.9em;
+	}
+
+	.contact-info a {
+		display: block;
+		min-height: 20px;
+		background-repeat: no-repeat;
+		background-size: 20px 20px;
+		padding: 0 0 0 30px;
+		margin: 0 0 10px;
+	}
+
+	.contact-info li.phone a {
+		background-image: url('../img/phone.png');
+
+	}
+	.contact-info li.mail a {
+		background-image: url('../img/mail.png');
+
+	}
+	.contact-info li.twitter a {
+		background-image: url('../img/twitter.png');
+
+	}
+
+	/*************************************
+	COLORS
+	**************************************/
+	/* site body */
+	body {
+	background-color: #fff;
+	color: #fff;
+	}
+	/*blue header*/
+	header {
+	background: url('../img/subtle_grunge.png');	
+	border-color: #0000cc;
+	}
+	/*nav background on mobile*/
+	nav {
+		font-family: 'Lobster Two', sans-serif;
+		background: #0000cc;
+	}
+	/*logo text*/
+	h1, h2 {
+		color: #640008;
+	}
+	/*links*/
+	a {
+		color: #000080;
+	}
+
+	/*nav links*/
+	nav a, nav a:visited {
+		color: #640008;
+	}
+	/*selected nav link*/
+	nav a.selected, nav a:hover{
+		color: #00006b;
+	}
+
+

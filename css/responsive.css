@@ -1,0 +1,170 @@
+@media screen and (min-width: 320px) and (max-width: 399px){
+
+#home{
+		font-size: 1em;
+		letter-spacing: 0.1em;
+		line-height: 1em;
+		padding-top: 80%;
+		padding-left: 25%;
+		height: 700px;
+	}
+	#welcome{
+		margin-right: 15%;
+		padding-left: 5%;
+		padding-top: 10%;
+		padding-bottom: 10%;
+	}
+	#Portfolio{
+		padding-top: 60%;
+	}
+	#wrapper{
+		height: 630px;
+	}
+	#gallery li {
+		display: inline-block;
+		width: 65%;
+		margin-top: 3%;
+		margin-left: 25%;
+	}
+	#about{
+		padding-top: 60%;
+		padding-left: 5%;
+		padding-right: 11%;
+	}
+	#wrapper1{
+		width:90%;
+		height: 35rem;
+	}
+	#wrapper2{
+		width: 90%;
+		height: 22rem;
+	}
+	#contact{
+		padding-top: 60%;
+		padding-left: 4%;
+		padding-right: 12%;
+	}
+}
+
+@media screen and (min-width: 400px) and (max-width: 599px){
+
+	#home{
+		font-size: 1em;
+		letter-spacing: 0.1em;
+		line-height: 1em;
+		padding-top: 80%;
+		padding-left: 25%;
+		height: 700px;
+	}
+	#Portfolio{
+		padding-top: 40%;
+	}
+	#wrapper{
+		height: 700px;
+	}
+	#about{
+		padding-top: 40%;
+		padding-left: 5%;
+		padding-right: 11%;
+	}
+	#wrapper1{
+		width:90%;
+		height: 35rem;
+	}
+	#wrapper2{
+		width: 90%;
+		height: 21rem;
+	}
+	#contact{
+		padding-top: 40%;
+		padding-left: 4%;
+		padding-right: 12%;
+	}
+
+	#gallery li {
+		display: inline-block;
+		width: 60%;
+		margin-top: 3%;
+		margin-left: 25%;
+	}
+}
+
+@media screen and (min-width: 600px) and (max-width: 745px){
+	#home{
+		font-size: 1.3em;
+		letter-spacing: 0.3em;
+		line-height: 1.4em;
+		padding-top: 55%;
+		padding-left: 25%;
+		height: 700px;
+	}
+	#Portfolio{
+		padding-top: 19%;
+	}
+	#wrapper{
+		height: 430px;
+	}
+	#about{
+		padding-top: 20%;
+		padding-left: 5%;
+		padding-right: 11%;
+	}
+	#wrapper1{
+		width:90%;
+		height: 25rem;
+	}
+	#contact{
+		padding-top: 27%;
+		padding-left: 4%;
+		padding-right: 12%;
+	}
+	#wrapper2{
+		width: 90%;
+		height: 21rem;
+	}
+	#gallery{
+		margin-top: 5%;
+	}
+	#gallery li {
+		display: inline-block;
+		width: 33%;
+		margin-top: 3%;
+		margin-left: 10%;
+	}
+	
+}
+
+
+
+
+@media screen and (min-width: 746px) and (max-width: 1016px){
+	#home{
+		font-size: 1.3em;
+		letter-spacing: 0.3em;
+		line-height: 1.4em;
+		padding-top: 50%;
+		padding-left: 25%;
+		height: 700px;
+	}
+	#Portfolio{
+		padding-top: 16%;
+	}
+	#wrapper{
+		height: 400px;
+	}
+	#about{
+		padding-top: 18%;
+	}
+	#contact{
+		padding-top: 22%;
+	}
+	#wrapper1{
+		height: 22rem;
+		padding-bottom: 10px;
+	}
+	#wrapper2{
+		height: 20rem;
+		padding-bottom: 10px;
+	}
+}
+
